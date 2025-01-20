@@ -31,3 +31,4 @@ Get["Teukolsky`TeukolskyRadial`"];
 Get["Teukolsky`TeukolskyMode`"];
 Get["Teukolsky`NumericalIntegration`"];
 Get["Teukolsky`ConvolveSource`"];
+Get["Teukolsky`PN`"];
